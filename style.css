@@ -8,5 +8,5 @@ li.current-menu-item:not(.menu-item-has-children) {
 	pointer-events: none;
 }
 a:active {
-  background-color: yellow;
+  color: yellow;
 }
