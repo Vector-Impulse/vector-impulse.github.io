@@ -4,7 +4,7 @@
 	    -ms-user-select: none;
 	        user-select: none; 
 }
-.container-fluid ul li a.active {
+.container-fluid ul li a:active {
   pointer-events: none;
   cursor: default;
   text-decoration: none;
